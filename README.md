@@ -44,31 +44,7 @@ KnowledgeIsPowerWebsite/
 ├── dual-diagnosis.html
 ├── trauma-informed-care.html
 └── README.md                # This file
-## How to View Locally
-1. Open the folder in your file explorer.
-2. Double-click `index.html` — it should open in your default browser.
-3. Resize the window or use browser dev tools (F12 → device toolbar) to test mobile view.
-
-## How to Update
-- Edit any .html file directly (use a text editor like Notepad++, VS Code, or even Google Docs → export as plain text).
-- Update `styles.css` for design changes.
-- Add new pages? Create a new .html file and link it in the `<nav>` section of every page.
-
-## Deployment (Hosting Options)
-### Netlify (Recommended – Free & Easy)
-1. Go to https://app.netlify.com
-2. Sign up/login (free with email/Google/GitHub)
-3. Drag and drop your entire folder onto the Netlify dashboard
-4. Wait ~30 seconds → get a live URL (e.g., https://knowledge-is-power-123.netlify.app)
-
-### GitHub Pages (Free)
-1. Create a free GitHub account
-2. New repository → upload all files
-3. Settings → Pages → select main branch → root folder → Save
-4. Site live at https://yourusername.github.io/repo-name
-
-### Vercel (Alternative)
-Similar drag-and-drop or Git deploy: https://vercel.com
+##
 
 ## Credits & Sources
 Content inspired by and adapted from:
